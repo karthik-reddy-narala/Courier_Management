@@ -11,7 +11,7 @@
 </head>
 <jsp:include page="navbar.jsp"></jsp:include>
 <body>
-
+<!-- This is a about us page -->
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <br/>
    <div id="about" class="about ">
